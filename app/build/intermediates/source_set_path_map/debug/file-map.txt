@@ -1,0 +1,11 @@
+com.company.PlaySDKDemo.app-core-1.0.0-0 C:\Users\GB-DEV-008\.gradle\caches\transforms-3\0caedb9e5bc6e504fc77c4b9fbb4b681\transformed\core-1.0.0\res
+com.company.PlaySDKDemo.app-media-1.0.0-1 C:\Users\GB-DEV-008\.gradle\caches\transforms-3\42110669a31843abea58d9764e0867c7\transformed\media-1.0.0\res
+com.company.PlaySDKDemo.app-coordinatorlayout-1.0.0-2 C:\Users\GB-DEV-008\.gradle\caches\transforms-3\cf2d9462f68b160079d2c58bb5765b2c\transformed\coordinatorlayout-1.0.0\res
+com.company.PlaySDKDemo.app-pngs-3 E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\build\generated\res\pngs\debug
+com.company.PlaySDKDemo.app-resValues-4 E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\build\generated\res\resValues\debug
+com.company.PlaySDKDemo.app-rs-5 E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\build\generated\res\rs\debug
+com.company.PlaySDKDemo.app-mergeDebugResources-6 E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.company.PlaySDKDemo.app-mergeDebugResources-7 E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.company.PlaySDKDemo.app-merged_res-8 E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\build\intermediates\merged_res\debug
+com.company.PlaySDKDemo.app-debug-9 E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\debug\res
+com.company.PlaySDKDemo.app-main-10 E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\res

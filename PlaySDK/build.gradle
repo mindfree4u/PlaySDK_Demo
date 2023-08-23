@@ -1,0 +1,47 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 33
+//    buildToolsVersion "29.0.1"
+
+
+    defaultConfig {
+        minSdkVersion 21
+        targetSdkVersion 31
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    lintOptions {
+        abortOnError false
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+}
+
+task makeJar(type: Copy) {
+    //删除旧的jar包
+    delete 'libs/IPlaySDK.jar'
+    //原地址
+    from('build/intermediates/bundles/release/')
+    //导出jar包的地址
+    into('libs/')
+    //包含的jar包
+    include('classes.jar')
+    //重命名jar包为IPlaySDK.jar
+    rename('classes.jar', 'IPlaySDK.jar')
+}
+
+makeJar.dependsOn(build)

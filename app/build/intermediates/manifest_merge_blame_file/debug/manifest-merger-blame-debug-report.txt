@@ -1,0 +1,64 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.company.PlaySDKDemo"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:6:5-73
+8        android:minSdkVersion="21"
+8-->E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:6:15-40
+9        android:targetSdkVersion="33" />
+9-->E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:6:41-70
+10
+11    <uses-feature android:glEsVersion="0x00020000" />
+11-->E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:5:5-54
+11-->E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:5:19-51
+12
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:7:2-77
+13-->E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:7:19-75
+14    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+14-->E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:8:2-67
+14-->E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:8:19-65
+15
+16    <application
+16-->E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:10:5-23:19
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\0caedb9e5bc6e504fc77c4b9fbb4b681\transformed\core-1.0.0\AndroidManifest.xml:22:18-86
+18        android:debuggable="true"
+19        android:icon="@drawable/icon"
+19-->E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:10:18-47
+20        android:label="@string/app_name"
+20-->E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:10:48-80
+21        android:testOnly="true" >
+22        <activity
+22-->E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:11:9-19:20
+23            android:name="com.company.PlaySDKDemo.PlayDemoActivity"
+23-->E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:11:19-74
+24            android:exported="true"
+24-->E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:14:13-36
+25            android:label="@string/app_name"
+25-->E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:12:19-51
+26            android:screenOrientation="portrait" >
+26-->E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:13:19-55
+27            <intent-filter>
+27-->E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:15:13-18:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:16:17-69
+28-->E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:16:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:17:17-77
+30-->E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:17:27-74
+31            </intent-filter>
+32        </activity>
+33        <activity
+33-->E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:20:3-22:43
+34            android:name="com.company.PlaySDKDemo.FileListActivity"
+34-->E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:22:10-41
+35            android:screenOrientation="portrait" />
+35-->E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:21:7-43
+36    </application>
+37
+38</manifest>

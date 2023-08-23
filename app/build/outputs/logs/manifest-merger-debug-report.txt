@@ -1,0 +1,162 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\096cd0408e3bcd160278b8fafadec766\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\42110669a31843abea58d9764e0867c7\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\1503e021e497e2b52498680f9ec090d0\transformed\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\515a831aea8b59355f8c01d10899c52b\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\dc97d6ce0b4fe9761cb7382a11c15f82\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\85f86d78fcd14a3f534bf898212a06d9\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\ffa6ff59be780381963989a9f5cf67d3\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\cf2d9462f68b160079d2c58bb5765b2c\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\ce1e143fbf6a788a5607614ef07e4838\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\25c54dbd1d6c260a9555bf9b1bea2c0e\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\707124f09255db0449f16e3157a975ce\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\16ae93db70f263405d59490c2a6b20cc\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\e9005c5d91b82b121ada00270514f19d\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\0caedb9e5bc6e504fc77c4b9fbb4b681\transformed\core-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\ba64bbfc4e188b29cad08193e32b64ce\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\a09312ca12f6a85a6670c7bd7cf3492b\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\768ce08253bf00b423db5e4145f1008b\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\ba26b032571efe3047e393aed466c638\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\8d866ddde2cdf8a7053c54c56694d22e\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\e6feb0a9bf1c6632f275ad2bd5042b74\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\92dbb525ace016fe3f791d4316ca6187\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\1e817a723cd71ec47446a0a2e706c34c\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\bfacf2ee5ac7cac2e44ce4e891127432\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\4d1f2431f528cf60c503cb0d54814881\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\c057147ccced6033784e36101cd17c89\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:4:33-66
+		INJECTED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml
+		INJECTED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:4:7-32
+		INJECTED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml
+		INJECTED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:3:7-30
+		INJECTED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml
+		INJECTED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:5:5-54
+	android:glEsVersion
+		ADDED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:5:19-51
+uses-sdk
+ADDED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:6:5-73
+INJECTED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:6:5-73
+INJECTED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:6:5-73
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\096cd0408e3bcd160278b8fafadec766\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\096cd0408e3bcd160278b8fafadec766\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\42110669a31843abea58d9764e0867c7\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\42110669a31843abea58d9764e0867c7\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\1503e021e497e2b52498680f9ec090d0\transformed\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\1503e021e497e2b52498680f9ec090d0\transformed\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\515a831aea8b59355f8c01d10899c52b\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\515a831aea8b59355f8c01d10899c52b\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\dc97d6ce0b4fe9761cb7382a11c15f82\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\dc97d6ce0b4fe9761cb7382a11c15f82\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\85f86d78fcd14a3f534bf898212a06d9\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\85f86d78fcd14a3f534bf898212a06d9\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\ffa6ff59be780381963989a9f5cf67d3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\ffa6ff59be780381963989a9f5cf67d3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\cf2d9462f68b160079d2c58bb5765b2c\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\cf2d9462f68b160079d2c58bb5765b2c\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\ce1e143fbf6a788a5607614ef07e4838\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\ce1e143fbf6a788a5607614ef07e4838\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\25c54dbd1d6c260a9555bf9b1bea2c0e\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\25c54dbd1d6c260a9555bf9b1bea2c0e\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\707124f09255db0449f16e3157a975ce\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\707124f09255db0449f16e3157a975ce\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\16ae93db70f263405d59490c2a6b20cc\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\16ae93db70f263405d59490c2a6b20cc\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\e9005c5d91b82b121ada00270514f19d\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\e9005c5d91b82b121ada00270514f19d\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\0caedb9e5bc6e504fc77c4b9fbb4b681\transformed\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\0caedb9e5bc6e504fc77c4b9fbb4b681\transformed\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\ba64bbfc4e188b29cad08193e32b64ce\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\ba64bbfc4e188b29cad08193e32b64ce\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\a09312ca12f6a85a6670c7bd7cf3492b\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\a09312ca12f6a85a6670c7bd7cf3492b\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\768ce08253bf00b423db5e4145f1008b\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\768ce08253bf00b423db5e4145f1008b\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\ba26b032571efe3047e393aed466c638\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\ba26b032571efe3047e393aed466c638\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\8d866ddde2cdf8a7053c54c56694d22e\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\8d866ddde2cdf8a7053c54c56694d22e\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\e6feb0a9bf1c6632f275ad2bd5042b74\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\e6feb0a9bf1c6632f275ad2bd5042b74\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\92dbb525ace016fe3f791d4316ca6187\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\92dbb525ace016fe3f791d4316ca6187\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\1e817a723cd71ec47446a0a2e706c34c\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\1e817a723cd71ec47446a0a2e706c34c\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\bfacf2ee5ac7cac2e44ce4e891127432\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\bfacf2ee5ac7cac2e44ce4e891127432\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\4d1f2431f528cf60c503cb0d54814881\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\4d1f2431f528cf60c503cb0d54814881\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\c057147ccced6033784e36101cd17c89\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\c057147ccced6033784e36101cd17c89\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:6:5-73
+INJECTED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:6:5-73
+	android:targetSdkVersion
+		ADDED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:6:41-70
+		INJECTED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml
+		INJECTED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:6:15-40
+		INJECTED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml
+		INJECTED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:7:2-77
+	android:name
+		ADDED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:7:19-75
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:8:2-67
+	android:name
+		ADDED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:8:19-65
+application
+ADDED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:10:5-23:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\0caedb9e5bc6e504fc77c4b9fbb4b681\transformed\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\0caedb9e5bc6e504fc77c4b9fbb4b681\transformed\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\ba64bbfc4e188b29cad08193e32b64ce\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\ba64bbfc4e188b29cad08193e32b64ce\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\GB-DEV-008\.gradle\caches\transforms-3\0caedb9e5bc6e504fc77c4b9fbb4b681\transformed\core-1.0.0\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:10:48-80
+	android:icon
+		ADDED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:10:18-47
+activity#com.company.PlaySDKDemo.PlayDemoActivity
+ADDED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:11:9-19:20
+	android:screenOrientation
+		ADDED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:13:19-55
+	android:label
+		ADDED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:12:19-51
+	android:exported
+		ADDED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:11:19-74
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:17:27-74
+activity#com.company.PlaySDKDemo.FileListActivity
+ADDED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:20:3-22:43
+	android:screenOrientation
+		ADDED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:21:7-43
+	android:name
+		ADDED from E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\app\src\main\AndroidManifest.xml:22:10-41

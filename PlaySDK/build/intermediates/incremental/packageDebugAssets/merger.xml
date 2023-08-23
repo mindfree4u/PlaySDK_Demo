@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\PlaySDK\src\main\assets"/><source path="E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\PlaySDK\build\intermediates\shader_assets\debug\out"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="E:\CCTV_APP\PlayDEMO_NEW\DemoSrc\PlaySDK\src\debug\assets"/></dataSet></merger>
